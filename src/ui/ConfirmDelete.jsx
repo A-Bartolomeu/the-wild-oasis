@@ -11,6 +11,9 @@ const StyledConfirmDelete = styled.div`
   & p {
     color: var(--color-grey-500);
     margin-bottom: 1.2rem;
+    -webkit-hyphens: none;
+    -moz-hyphens: none;
+    hyphens: none;
   }
 
   & div {
